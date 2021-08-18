@@ -70,3 +70,5 @@ git push para enviar para o repositório no GitHub
 Repita este passo para criar mais duas branchs, chamadas versao02 e versao03, respectivamente.
 
 Data da atividade: 17.08.21
+
+01 - VERSÃO 01 - TESTE
