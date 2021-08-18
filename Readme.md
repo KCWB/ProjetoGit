@@ -68,3 +68,5 @@ git add para adicionar o arquivo
 git commit para commitar o novo arquivo, sem esquecer de adicionar uma mensagem útil e informativa sobre o que será publicado
 git push para enviar para o repositório no GitHub
 Repita este passo para criar mais duas branchs, chamadas versao02 e versao03, respectivamente.
+
+Data da atividade: 17.08.21
